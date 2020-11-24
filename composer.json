@@ -1,11 +1,11 @@
 {
-    "name": "maddhatter/laravel-fullcalendar",
+    "name": "mazhar/laravel-fullcalendar",
     "description": "Laravel helper for FullCalendar.io",
     "license": "MIT",
     "authors": [
         {
-            "name": "Shawn Tunney",
-            "email": "shawn.tunney@gmail.com"
+            "name": "Mazharul",
+            "email": "mazhar@gmail.com"
         }
     ],
     "require": {
